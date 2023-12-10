@@ -1,3 +1,4 @@
+
 import java.util.*;
 abstract class Robber{
 	void RobbingClass(){
