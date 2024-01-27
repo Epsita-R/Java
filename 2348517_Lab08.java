@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.mycompany.mavenproject1;
 import java.sql.*;
 import java.util.Vector;
@@ -9,15 +6,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-/**
- *
- * @author himanshugulechha
- */
 public class Lab8 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Lab8
-     */
     public Lab8() {
         initComponents();
         connect();
